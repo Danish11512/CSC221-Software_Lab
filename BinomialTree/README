@@ -26,8 +26,6 @@ public final class BinaomialTreeFactory {
 }
 
 
-
-
 Create a navigator with one parameter N, for the number of iterations.  For each iteration:  
 
 Starting from the root node, time zero, call the random function.  If the number is between 0 and P, traverse to up-node for the next time period.  If the number is between P and 100, traverse to down-node for the next time period.
